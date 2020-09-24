@@ -23,7 +23,7 @@ You'll need:
 
 If you are going to unpin Instagram 157.0 or 159.0, just find `unpin-ssl-instagram-ios-<your veriosn>.js` in `script/` directory, skip this section and start reading the next one. Otherwise you should customize the script for your Instagram version before use it.
 
-What does the script need customization? Among other things, the script patches the function called `verifyWithMetrics` in the private framework called `FBSharedFramework`. The problem is the binary contains no symbolic information (debug info, export etc) about the function, so the script can't find the function by name. You should help the script to find the function. Don't worry, it's simple:
+Why does the script need customization? Among other things, the script patches the function called `verifyWithMetrics` in the private framework called `FBSharedFramework`. The problem is the binary contains no symbolic information (debug info, export etc) about the function, so the script can't find the function by name. You should help the script to find the function. Don't worry, it's simple:
 
 **WARNING!** _The following instruction was created for Instagram 159.0. It's the latest Instagram version in AppStore for now (Sep 21, 2020). All xrefs and offsets on the screenshots below came from this version._
 
