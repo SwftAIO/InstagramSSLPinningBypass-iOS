@@ -78,3 +78,7 @@ As result, you should see Instagram HTTP(s) traffic in mitmproxy:
 ![image-20200921024629760](image-20200921024629760.png)
 
 ![image-20200921024649007](image-20200921024649007.png)
+
+## The script doesn't work :(
+
+Check your environment, maybe it is not set up properly. Of Facebook improved the Instagram SSL pinning protection, so the script does not work anymore. Who knows? :)
