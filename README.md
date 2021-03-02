@@ -1,6 +1,6 @@
-# A Frida script to bypass SSL pinning in Instagram (iOS)
+**Warning!** _[Numenorean](https://github.com/Numenorean) reported a problem with Instagram app of version 176. However, it looks like the script works ok with the next app version, Instagram 177. See https://github.com/kov4l3nko/InstagramSSLPinningBypass-iOS/issues/2#issue-818636113 for details._
 
-UPD: It looks like the protection has been improved. Unfortunately, I have no time to research/bypass it right now because of high workload on my main work :( I'll try to research it soon (but can't say for sure how soon). See https://github.com/kov4l3nko/InstagramSSLPinningBypass-iOS/issues/2#issue-818636113 for details.
+# A Frida script to bypass SSL pinning in Instagram (iOS)
 
 See [FAQ](docu/README.md) for details.
 
