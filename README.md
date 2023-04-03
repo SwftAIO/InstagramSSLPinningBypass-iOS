@@ -1,6 +1,4 @@
-**Warning!** _It looks like the script does not work anymore (tested on v.190-192). See https://github.com/kov4l3nko/InstagramSSLPinningBypass-iOS/issues/5 for details._
-
-**Warning!** _[Numenorean](https://github.com/Numenorean) reported a problem with Instagram app of version 176. However, it looks like the script works ok with the next app version, Instagram 177. See https://github.com/kov4l3nko/InstagramSSLPinningBypass-iOS/issues/2#issue-818636113 for details._
+**Warning!** _ Appears to be working again for 276.1 , however the examples for how to find the VerifyWithMetrics is no longer valid._
 
 # A Frida script to bypass SSL pinning in Instagram (iOS)
 
